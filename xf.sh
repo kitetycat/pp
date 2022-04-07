@@ -3,7 +3,7 @@
 
 # Set ARG
 UUID=bbc16f9d-6384-4495-aa70-e789388e8795
-
+ARCH="64"
 DOWNLOAD_PATH="/tmp/v2ray"
 
 mkdir -p ${DOWNLOAD_PATH}
